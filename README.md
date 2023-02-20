@@ -1,7 +1,7 @@
 # puppet with hiera example
  
 1. Install Puppet and Hiera on the master node:
-   You can use your package manager to install Puppet and Hiera. For example, on a Debian-based system, you can use the following command:
+   You can use your package manager to install Puppet and Hiera. For example, on a CentOS-based system, you can use the following command:
    sudo yum install puppet hiera
    
 2. Configure Hiera:
