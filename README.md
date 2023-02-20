@@ -1,2 +1,2 @@
-# puppet
+# puppet with hiera example
  
